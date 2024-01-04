@@ -1,4 +1,17 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Creative Bakery landing page
+
+This is a Museum page.
+
+In this project I have learned how to transform design into HTML, CSS and JavaScript code.
+
+## I developed this project using:
+- HTML
+- CSS
+- SASS
+- JavaScript
+- BEM
+- Responsive design and mobile first approach
+
+## Useful links:
+- [DEMO](https://yuran007.github.io/museum-landing-page/)
+- [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1)
