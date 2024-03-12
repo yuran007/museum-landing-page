@@ -1,8 +1,8 @@
-# Creative Bakery landing page
+# Museum landing page
 
 This is a Museum page.
 
-In this project I have learned how to transform design into HTML, CSS and JavaScript code.
+In this project, I have learned how to transform design into HTML, CSS, and JavaScript code.
 
 ## I developed this project using:
 - HTML
@@ -10,7 +10,7 @@ In this project I have learned how to transform design into HTML, CSS and JavaSc
 - SASS
 - JavaScript
 - BEM
-- Responsive design and mobile first approach
+- Responsive design and mobile-first approach
 
 ## Useful links:
 - [DEMO](https://yuran007.github.io/museum-landing-page/)
